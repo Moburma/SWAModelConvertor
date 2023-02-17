@@ -2,7 +2,7 @@
 
 Powershell 5 script to convert Syndicate Wars Pre-Alpha 3D Models to Wavefront .OBJ format. 
 
-The pre-alpha rolling demo (and only this demo) of the game Syndicate Wars by Bullfrog Productions has an unused directory called "objects" in it that contain the game's 3D models in various formats. Files with the extension .Bxx are in some kind of simplistic custom format used internally by Bullfrog. It's very similar to how .OBJ files so I decided to make a convertor.
+The pre-alpha rolling demo (and only this demo) of the game Syndicate Wars by Bullfrog Productions has an unused directory called "objects" in it that contain the game's 3D models in various formats. Files with the extension .Bxx are in some kind of simplistic custom format used internally by Bullfrog with the header "Bullfrog Standard 3D Object Format". It's very similar to the Wavefront .OBJ file format so I decided to make a convertor.
 
 There are only 11 objects in this format, but a few are interesting to see:
 
