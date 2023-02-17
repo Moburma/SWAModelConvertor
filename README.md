@@ -12,6 +12,7 @@ There are only 11 objects in this format, but a few are interesting to see:
 ## Usage
 
 Run with SWAModelConvert.ps1  {filename}
+
 e.g. SWAModelConvert.ps1 VEH02.B08
 
 The script will generate the .obj file in the current directory.
