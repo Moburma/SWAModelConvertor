@@ -18,3 +18,5 @@ e.g. SWAModelConvert.ps1 VEH02.B08
 The script will generate the .obj file in the current directory.
 
 It's possible other games used this format so may work there.
+
+Note there is more information in the original Bullfrog format such as colours of faces etc, but I'm only converting the bare minimum just to see what these were.
